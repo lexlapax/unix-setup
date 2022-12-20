@@ -1,0 +1,20 @@
+(specifications->manifest
+  (list 
+	"gawk"
+	"sed"
+    	"m4"
+        "autoconf"
+        "bison"
+        "flex"
+        "make"
+	"rsync"
+	"p7zip"
+	"bzip2"
+        "git"
+	"mercurial"
+        "pkg-config"
+    	"gcc-toolchain"
+	"clang-toolchain"
+        "llvm"
+	"libstdc++-doc"
+	))

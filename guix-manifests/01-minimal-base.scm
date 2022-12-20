@@ -1,0 +1,17 @@
+(specifications->manifest
+  (list 
+	"glibc"
+	"net-tools"
+	"ncurses"
+	"file"
+	"gzip"
+	"unzip"
+	"zip"
+	"tar"
+        "curl"
+        "wget"
+	"git"
+	"vim"
+        "python2-minimal"
+	"node@10"
+	))
