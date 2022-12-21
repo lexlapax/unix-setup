@@ -5,6 +5,7 @@
         "bison"
         "flex"
         "make"
+        "cmake"
 	"mercurial"
         "pkg-config"
     	"gcc-toolchain"
