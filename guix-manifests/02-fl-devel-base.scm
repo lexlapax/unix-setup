@@ -1,0 +1,14 @@
+(specifications->manifest
+  (list 
+    	"m4"
+        "autoconf"
+        "bison"
+        "flex"
+        "make"
+	"mercurial"
+        "pkg-config"
+    	"gcc-toolchain"
+	"clang-toolchain"
+        "llvm"
+	"libstdc++-doc"
+	))
